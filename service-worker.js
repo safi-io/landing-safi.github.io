@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/landing-safi.github.io/precache-manifest.7514aca89dc08997debfb8e61e0c1027.js"
+  "/landing-safi.github.io/precache-manifest.c438431b6d7bdef89c160d10aaf02e86.js"
 );
 
 workbox.clientsClaim();
